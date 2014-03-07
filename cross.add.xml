@@ -1,0 +1,10 @@
+<add>
+	<e1Detector id="0" lane="4i_0" pos="450" freq="30" file="corss0.out" friendlyPos="false"/>
+	<e1Detector id="1" lane="4i_1" pos="450" freq="30" file="corss1.out" friendlyPos="false"/>
+	<e1Detector id="2" lane="4i_2" pos="450" freq="30" file="corss2.out" friendlyPos="false"/>
+	<e1Detector id="3" lane="4i_3" pos="450" freq="30" file="corss3.out" friendlyPos="false"/>
+	
+	<e1Detector id="4" lane="2i_0" pos="450" freq="30" file="corss4.out" friendlyPos="false"/>
+	<e1Detector id="5" lane="2i_1" pos="450" freq="30" file="corss5.out" friendlyPos="false"/>
+	<e1Detector id="6" lane="2i_2" pos="450" freq="30" file="corss6.out" friendlyPos="false"/>
+</add>

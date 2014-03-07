@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edges xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo-sim.org/xsd/edges_file.xsd">
+   
+   <edge id="1o" from="0" to="1" type="a" />
+
+   <edge id="2i" from="2" to="0" type="b">
+	   <lane index="0" speed="35" shape="0.00,495.05 248.50,495.05"/>
+       <lane index="1" shape="0.00,498.35 248.50,498.35"/>
+       <lane index="2" shape="0.00,495.05 248.50,495.05"/>
+   </edge>
+   
+   <edge id="2o" from="0" to="2" type="b0" />
+
+   <edge id="3o" from="0" to="3" type="c" />
+
+   <edge id="4i" from="4" to="0" priority="3" numLanes="4">
+        <lane index="0" speed="30" shape="0.00,495.05 248.50,495.05"/>
+        <lane index="1" speed="25" shape="0.00,498.35 248.50,498.35"/>
+        <lane index="2" speed="30" shape="0.00,495.05 248.50,495.05"/>
+        <lane index="3" speed="25" shape="0.00,498.35 248.50,498.35"/>
+   </edge>
+   
+</edges>
